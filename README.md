@@ -1,5 +1,9 @@
-# MET-robot01
+# MET-reverse-robot01
 MET drivebase unit final deviation test code
+
+NOTE: this robot code assumes that the motors are plugged in standard (left: port 10 and right: port 1) but
+that the drive train either contains an even number of gears driving motor to wheel or for some other reason
+is flipped.
 
 This is the test code which should be placed on the students drivebase to perform the two class/lab exit tests:
 1 - drivebase deviation test
